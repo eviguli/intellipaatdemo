@@ -1,0 +1,2 @@
+merge conflict in master
+line addred in master
