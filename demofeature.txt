@@ -1,0 +1,3 @@
+this if from feature branch line one
+line added in master branch
+line added in feature branch
