@@ -1,3 +1,4 @@
 line added in feature branch
 merge example in feature branch
-another line 
+another line
+again line added 
