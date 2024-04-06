@@ -1,2 +1,5 @@
 merge conflict in master
 line addred in master
+line added in feature branch
+merge example in feature branch
+another line added in feature
