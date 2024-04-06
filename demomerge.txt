@@ -2,4 +2,8 @@ merge conflict in master
 line addred in master
 line added in feature branch
 merge example in feature branch
+<<<<<<< HEAD
 another line added in feature
+=======
+another line 
+>>>>>>> feature
