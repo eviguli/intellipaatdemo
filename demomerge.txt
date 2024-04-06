@@ -3,7 +3,12 @@ line addred in master
 line added in feature branch
 merge example in feature branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 another line added in feature
 =======
 another line 
+>>>>>>> feature
+=======
+another line
+again line added 
 >>>>>>> feature
