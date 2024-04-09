@@ -1,2 +1,2 @@
 info file created
-line added on github
+line added on github.
