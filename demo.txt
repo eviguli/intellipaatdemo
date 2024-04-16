@@ -2,3 +2,4 @@ this is first file
 second line added
 line added on cmd
 third line added
+4th line
