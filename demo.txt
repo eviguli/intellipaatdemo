@@ -1,6 +1,2 @@
 this is first file
 second line added
-line added on cmd
-third line added
-edited on develop branchd
-last line added for maven
