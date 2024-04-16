@@ -3,4 +3,4 @@ second line added
 line added on cmd
 third line added
 edited on develop branch
-second edit
+second edited
